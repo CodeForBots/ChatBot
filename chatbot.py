@@ -13,7 +13,7 @@ API_ID = os.environ.get("API_ID", "2825957")
 API_HASH = os.environ.get("API_HASH", "2116c16ee8d91a6c825f6da9c809a781")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "6411790355:AAGxJcH_yDEHbP3FmhGC334iXy0JF9cR7N0")
 OWNER_ID = os.environ.get("OWNER_ID", "6353115901")
-MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://aibot535:aibot535@cluster0.qxjfgnc.mongodb.net/?retryWrites=true&w=majority")
+MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://ItzDengerboy:itzdengerboixddd@cluster0.f0mfedi.mongodb.net/?retryWrites=true&w=majority")
 
 
 bot = Client("AltChatBot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
